@@ -12,9 +12,10 @@ package Com.cg.list;
 	            numbers.add(18);
 	            numbers.add(5);
 	            numbers.add(2);
-	            System.out.println("********");
 	            numbers.add(0);
-	            System.out.println("Before : " + numbers);
+	            System.out.println("********");
+	            System.out.println("@@@@@@");
+            System.out.println("Before : " + numbers);
 	            // Sorting an ArrayList using Collections.sort() method
 	            Collections.sort(numbers);
 	            Iterator itr = numbers.iterator();
@@ -25,7 +26,7 @@ package Com.cg.list;
 	                 System.out.println(result);
 	            }
 	            System.out.println("After : " + numbers);
-
+                System.out.println("Sruthi");
 	            System.out.println("######");
 	            System.out.println("@@@@@@");
 	        }
