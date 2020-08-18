@@ -14,6 +14,7 @@ package Com.cg.list;
 	            numbers.add(5);
 	            numbers.add(2);
 	            numbers.add(0);
+	            System.out.println("Hello word");
 	            System.out.println("********");
 	            System.out.println("@@@@@@");
             System.out.println("Before : " + numbers);
